@@ -35,7 +35,7 @@ it consist of a list of video games with sales greater than 100,000 copies
 
  
 # Files
-- videoGamesSales.ipy : a python code along text explanation and visualized observation
+- videoGamesSales.ipynp : a python code along text explanation and visualized observation
 - vgsales.csv : a csv file with the data set used
 
 # Environment
