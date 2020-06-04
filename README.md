@@ -42,7 +42,7 @@ it consist of a list of video games with sales greater than 100,000 copies
 The set up needed to run the project you need **python3** along with **jupyter notebook** 
  / note you might need to type  **%matplotlib inline** in the notebook jupyter notebook to show graph in the notebook
 
-# libraries
+# Libraries
 there two libraries used 
  1: Pandas: is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
