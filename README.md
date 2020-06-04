@@ -34,7 +34,22 @@ it consist of a list of video games with sales greater than 100,000 copies
 - Global_Sales - Total worldwide sales (in millions).
 
  
+# Files
+- videoGamesSales.ipy : a python code along text explanation and visualized observation
+- vgsales.csv : a csv file with the data set used
 
-#Code 
+# Environment
+The set up needed to run the project you need **python3** along with **jupyter notebook** 
+ / note you might need to type  **%matplotlib inline** in the notebook jupyter notebook to show graph in the notebook
 
+# libraries
+there two libraries used 
+ 1: Pandas: is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
 
+ 2: matplotlib.pyplot : Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+# Findings
+
+see Post for observation result
+ 
