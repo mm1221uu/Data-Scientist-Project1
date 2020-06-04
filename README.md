@@ -18,7 +18,7 @@ The aim is to select a dataset and answer 3 questions of my choice
 # Data & Structure
 
 i will be using Video Games data set by GregorySmith
-from Kaggle https://www.kaggle.com/gregorut/videogamesales 
+from [Kaggle](https://www.kaggle.com/gregorut/videogamesales)
 it consist of a list of video games with sales greater than 100,000 copies
 
 - Rank - Ranking of overall sales
@@ -51,5 +51,5 @@ built on top of the Python programming language.
 
 # Findings
 
-see Post for observation result
+see [Link](https://medium.com/@mm1221uu/you-might-wonder-what-is-the-top-selling-games-or-what-is-the-most-game-published-platform-in-this-72611b196567) for observation result
  
